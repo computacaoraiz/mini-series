@@ -1,8 +1,12 @@
 # Mini-séries
 
 Este repositório contém códigos e outros materiais e recursos das mini-séries do
-**Canal Computação Raiz** no YouTube
+**Canal Computação Raiz** no YouTube:
 [www.youtube.com.br/computacaoraiz](https://www.youtube.com/computacaoraiz).
+
+As mini-séries disponíveis atualmente são:
+* [**01: Ler linha em arquivo, usando
+  C**](https://github.com/computacaoraiz/mini-series/tree/master/01_read_line)
 
 ## Mini-série ou minissérie?
 
